@@ -1,7 +1,7 @@
 # @fuels/connector
 
 Collection of connectors for `fuels` SDK.
-This package enables users to use their **wallets** to sign transactions on Fuel Network.
+This package enables users to use their **wallets** to sign transactions on Fuel Network
 
 > **Warning**
 > This project is under active development.
